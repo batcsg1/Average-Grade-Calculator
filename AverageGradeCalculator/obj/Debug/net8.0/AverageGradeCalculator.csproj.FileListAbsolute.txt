@@ -1,0 +1,28 @@
+C:\Programs\AverageGradeCalculator\obj\Debug\net8.0\AverageGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\AverageGradeCalculator\obj\Debug\net8.0\AverageGradeCalculator.AssemblyInfoInputs.cache
+C:\Programs\AverageGradeCalculator\obj\Debug\net8.0\AverageGradeCalculator.AssemblyInfo.cs
+C:\Programs\AverageGradeCalculator\obj\Debug\net8.0\AverageGradeCalculator.csproj.CoreCompileInputs.cache
+C:\Programs\AverageGradeCalculator\bin\Debug\net8.0\AverageGradeCalculator.exe
+C:\Programs\AverageGradeCalculator\bin\Debug\net8.0\AverageGradeCalculator.deps.json
+C:\Programs\AverageGradeCalculator\bin\Debug\net8.0\AverageGradeCalculator.runtimeconfig.json
+C:\Programs\AverageGradeCalculator\bin\Debug\net8.0\AverageGradeCalculator.dll
+C:\Programs\AverageGradeCalculator\bin\Debug\net8.0\AverageGradeCalculator.pdb
+C:\Programs\AverageGradeCalculator\obj\Debug\net8.0\AverageGradeCalculator.dll
+C:\Programs\AverageGradeCalculator\obj\Debug\net8.0\refint\AverageGradeCalculator.dll
+C:\Programs\AverageGradeCalculator\obj\Debug\net8.0\AverageGradeCalculator.pdb
+C:\Programs\AverageGradeCalculator\obj\Debug\net8.0\AverageGradeCalculator.genruntimeconfig.cache
+C:\Programs\AverageGradeCalculator\obj\Debug\net8.0\ref\AverageGradeCalculator.dll
+C:\Visual Studio 2022 C# Programs\AverageGradeCalculator\bin\Debug\net8.0\AverageGradeCalculator.exe
+C:\Visual Studio 2022 C# Programs\AverageGradeCalculator\bin\Debug\net8.0\AverageGradeCalculator.deps.json
+C:\Visual Studio 2022 C# Programs\AverageGradeCalculator\bin\Debug\net8.0\AverageGradeCalculator.runtimeconfig.json
+C:\Visual Studio 2022 C# Programs\AverageGradeCalculator\bin\Debug\net8.0\AverageGradeCalculator.dll
+C:\Visual Studio 2022 C# Programs\AverageGradeCalculator\bin\Debug\net8.0\AverageGradeCalculator.pdb
+C:\Visual Studio 2022 C# Programs\AverageGradeCalculator\obj\Debug\net8.0\AverageGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 C# Programs\AverageGradeCalculator\obj\Debug\net8.0\AverageGradeCalculator.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 C# Programs\AverageGradeCalculator\obj\Debug\net8.0\AverageGradeCalculator.AssemblyInfo.cs
+C:\Visual Studio 2022 C# Programs\AverageGradeCalculator\obj\Debug\net8.0\AverageGradeCalculator.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 C# Programs\AverageGradeCalculator\obj\Debug\net8.0\AverageGradeCalculator.dll
+C:\Visual Studio 2022 C# Programs\AverageGradeCalculator\obj\Debug\net8.0\refint\AverageGradeCalculator.dll
+C:\Visual Studio 2022 C# Programs\AverageGradeCalculator\obj\Debug\net8.0\AverageGradeCalculator.pdb
+C:\Visual Studio 2022 C# Programs\AverageGradeCalculator\obj\Debug\net8.0\AverageGradeCalculator.genruntimeconfig.cache
+C:\Visual Studio 2022 C# Programs\AverageGradeCalculator\obj\Debug\net8.0\ref\AverageGradeCalculator.dll
