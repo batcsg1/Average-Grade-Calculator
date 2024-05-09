@@ -12,9 +12,7 @@ namespace AverageGradeCalculator
             int gradeYear1 = 0, gradeYear2 = 0, gradeYear3 = 0;
             double averageYear1 = 0, averageYear2 = 0, averageYear3 = 0;
             char gradeLetter = ' ';
-            string[] papernamesYear1;
-            string[] papernamesYear2;
-            string[] papernamesYear3;
+            
 
             //Initial display message
             Console.WriteLine("AVERAGE GRADE CALCULATOR");
