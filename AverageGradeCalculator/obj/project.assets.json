@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio 2022 C# Programs\\AverageGradeCalculator\\AverageGradeCalculator.csproj",
+      "projectUniqueName": "C:\\Git Repositories\\Average-Grade-Calculator\\AverageGradeCalculator\\AverageGradeCalculator.csproj",
       "projectName": "AverageGradeCalculator",
-      "projectPath": "C:\\Visual Studio 2022 C# Programs\\AverageGradeCalculator\\AverageGradeCalculator.csproj",
+      "projectPath": "C:\\Git Repositories\\Average-Grade-Calculator\\AverageGradeCalculator\\AverageGradeCalculator.csproj",
       "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "C:\\Visual Studio 2022 C# Programs\\AverageGradeCalculator\\obj\\",
+      "outputPath": "C:\\Git Repositories\\Average-Grade-Calculator\\AverageGradeCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",

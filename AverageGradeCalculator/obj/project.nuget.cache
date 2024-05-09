@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pmzQQ0SggOh+BL8DRiY5VnPrrgrucERdBLUaosyV627ocxzUnawSQ1DNM5adNiVRlPGfHxHB9AtDN/+kCI0mgA==",
+  "dgSpecHash": "2NQ2aivDhnb3ye6y2L33pmDXGYDRPLUvaoVLTvvFG8gdnCv9DOrlYFnO8Hn/AIU/31LPUw966aHuSGFc5VBi+w==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio 2022 C# Programs\\AverageGradeCalculator\\AverageGradeCalculator.csproj",
+  "projectFilePath": "C:\\Git Repositories\\Average-Grade-Calculator\\AverageGradeCalculator\\AverageGradeCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

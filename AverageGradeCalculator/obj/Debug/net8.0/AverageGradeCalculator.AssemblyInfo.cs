@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AverageGradeCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e841f830c9d9155ac349e124e48f8ebe91c40715")]
 [assembly: System.Reflection.AssemblyProductAttribute("AverageGradeCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AverageGradeCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
